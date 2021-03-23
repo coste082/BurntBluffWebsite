@@ -9,8 +9,15 @@ html {
 .container {
   display: flex;
   justify-content: center;
+  flex-direction: row;
 }
 
+.container:first-child {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* new */
+  margin-bottom: 25px;
+}
 img {
   width: 75%;
   max-width: 75%;
