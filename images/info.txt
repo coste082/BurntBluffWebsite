@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: expressway_rg
+font link: https://www.fontspring.com/fonts/typodermic/expressway/expressway-regular
+font author: Typodermic Fonts
+font author site: http://typodermicfonts.com/
+
+
+icon designer: Gábor István Karaba
+icon designer link: /gabori.karaba
+        
+{"bg":"#EAF2EF","icon-gradient-0":"#0A3732","icon-gradient-1":"#55C388","font":"#0E261C","slogan":"#223a30"}
+      
