@@ -36,10 +36,3 @@ a {
   color: black;
   text-decoration: none;
 }
-
-_::-webkit-full-page-media,
-_:future,
-:root .safari_only {
-  color: black;
-  text-decoration: none;
-}
