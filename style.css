@@ -1,4 +1,4 @@
-body,
+/* body,
 html {
   margin: 0;
   height: 100%;
@@ -15,7 +15,7 @@ html {
 
 .container:first-child {
   display: flex;
-  align-items: center; /* new */
+  align-items: center;
   margin-bottom: 25px;
 }
 img {
@@ -35,4 +35,4 @@ img {
 a {
   color: black;
   text-decoration: none;
-}
+} */
