@@ -13,11 +13,12 @@ html {
   align-items: center;
 }
 
-.container:first-child {
+/* .container:first-child {
   display: flex;
   align-items: center;
   margin-bottom: 25px;
-}
+} */
+
 img {
   width: 75%;
   max-width: 75%;
@@ -25,9 +26,4 @@ img {
   margin: 20px;
   border: 3px solid black;
   border-radius: 20px;
-}
-
-.textbox {
-  width: 100%;
-  text-align: center;
 }
