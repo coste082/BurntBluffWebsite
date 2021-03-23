@@ -21,7 +21,18 @@ html {
 img {
   width: 75%;
   max-width: 75%;
+  height: intrinsic;
   margin: 20px;
   border: 3px solid black;
   border-radius: 20px;
+}
+
+.textbox {
+  width: 100%;
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
