@@ -8,14 +8,14 @@ html {
 
 .container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  flex-direction: row;
+  align-items: center;
 }
 
 .container:first-child {
   display: flex;
-  justify-content: center;
-  align-items: flex-start; /* new */
+  align-items: center; /* new */
   margin-bottom: 25px;
 }
 img {
